@@ -1,2 +1,1 @@
-# examen-universitaire-de-python
-examen python
+Jeu CMD de mathématique avec python
